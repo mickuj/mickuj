@@ -6,5 +6,5 @@ Lubię:
 + gry komputerowe
 
 moja strona: [Count IT](https://mickuj.github.io/)
-
+ciekawy artykuł: [AI Fairness 360](https://paperswithcode.com/paper/ai-fairness-360-an-extensible-toolkit-for)
 
