@@ -5,6 +5,6 @@ Lubię:
 + matematykę
 + gry komputerowe
 
-moja strona: [Count IT](https://mickuj.github.io/)
+moja strona: [Count IT](https://mickuj.github.io/)<br>
 ciekawy artykuł: [AI Fairness 360](https://paperswithcode.com/paper/ai-fairness-360-an-extensible-toolkit-for)
 
