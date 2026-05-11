@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there 👋, I'm Michalina
 
-<!--
-**mickuj/mickuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like building projects that sit somewhere between AI, engineering and creativity.
 
-Here are some ideas to get you started:
+Most of the time I work with Python, machine learning and data processing - but I also enjoy experimenting with music-related and unconventional ideas.
+I value aesthetics, precision and clean design just as much as functionality. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Beyond programming: Music fascinates me because it blends mathematical structure, patterns and art in a uniquely expressive way.
+
+---
+
+### Languages:
+<p align="left">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,mysql,powershell,markdown,latex" />
+    </a>
+</p>
+
+### Frameworks and Technologies:
+
+<p align="left">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,flask,fastapi,django,pytorch,tensorflow,scikitlearn,opencv,nodejs,firebase,vite" />
+    </a>
+</p>
+
+### Other Tools:
+
+<p align="left">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,vscode,pycharm,postgresql,sqlite,mysql,notion,matlab,windows" />
+    </a>
+</p>
